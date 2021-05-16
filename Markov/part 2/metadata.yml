@@ -1,0 +1,12 @@
+---
+:id: 23020664
+:submitters:
+- :name: Margaret Reed
+  :email: margaret.reed@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-10-24 02:43:27.112052000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-10-23 19:43:27.112052000 Z
+:status: processed
+:score: 17.0
